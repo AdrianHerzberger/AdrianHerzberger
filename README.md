@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Software Developer
 ----------------------------
 
-I am a self-motivated software developer with 3 years of experience in specializing in user-friendly and interactive applications! My outstanding expertise includes confident work with Angular, React, JavaScript and Python as well as first-class development of JSON and API interfaces with renowned frameworks such as Flask and FastAPI. My bachelor's degree in game design, combined with the above-mentioned training, has enabled me to create groundbreaking and interactive front-end and back-end applications and to deliver effective solutions to complex challenges.
+I am a self-motivated software developer with 3 years of experience specializing in user-friendly and interactive applications! My outstanding expertise includes confident work with Angular, React, JavaScript and Python as well as first-class development of JSON and API interfaces with renowned frameworks such as Flask and FastAPI. My bachelor's degree in game design, combined with the above-mentioned training, has enabled me to create groundbreaking and interactive front-end and back-end applications and to deliver effective solutions to complex challenges.
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [adrianherzberger94@gmail.com](mailto:adrianherzberger94@gmail.com)

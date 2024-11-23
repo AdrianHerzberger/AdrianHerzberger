@@ -1,29 +1,31 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrian Herzberger
+=========================================================================================================================================
 
-✨ Ich bin ein selbstmotivierter Softwareentwickler, der sich auf benutzerfreundliche und interaktive Anwendungen spezialisiert hat! ✨  
+Fullstack Software Developer
+----------------------------
 
-🔭 **Aktuell arbeite ich an:**  
-- Innovativen Frontend- und Backend-Anwendungen  
-- Der Entwicklung moderner JSON- und API-Schnittstellen mit Frameworks wie **Flask** und **FastAPI**  
+I am a self-motivated software developer with 3 years of experience in specializing in user-friendly and interactive applications! My outstanding expertise includes confident work with Angular, React, JavaScript and Python as well as first-class development of JSON and API interfaces with renowned frameworks such as Flask and FastAPI. My bachelor's degree in game design, combined with the above-mentioned training, has enabled me to create groundbreaking and interactive front-end and back-end applications and to deliver effective solutions to complex challenges.
 
-🌱 **Derzeit lerne ich:**  
-- Die Optimierung von Frontend-Performance  
-- Neue Ansätze für die Zusammenarbeit von **Angular** und **React**  
+* 🌍  I'm based in Germany
+* ✉️  You can contact me at [adrianherzberger94@gmail.com](mailto:adrianherzberger94@gmail.com)
+* 🧠  I'm learning Flask, FastAPI, PostgreSQL und SciKit-Learn which is fun!
 
-💬 **Frage mich nach:**  
-- Frontend-Technologien wie **Angular** oder **React**  
-- API-Entwicklung mit **Flask** und **FastAPI**  
-- Tipps zum Einstieg in die Fullstack-Entwicklung  
+### Skills
 
-👯 **Ich suche nach Kooperationen in den Bereichen:**  
-- Frontend- und UX-Design  
-- Interaktive Anwendungen für Web und Mobile  
 
-⚡ **Fun Fact:**  
-Mein Hintergrund in **Game Design** hilft mir, kreative und spielerische Lösungen zu entwickeln! 🎮  
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-📫 **Erreich mich hier:**  
-- LinkedIn: [Dein LinkedIn-Profil](#)  
-- E-Mail: [Deine E-Mail-Adresse](#)  
 
-🌟 Lass uns zusammen großartige Dinge bauen! 🌟
+### Socials
+
+<p align="left"> <a href="https://www.github.com/AdrianHerzberger" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/adrian-herzberger-b2709b1a8/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/AdrianHerzberger"><img src="https://github-readme-stats.vercel.app/api?username=AdrianHerzberger&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AdrianHerzberger's GitHub stats" /></a>
+
+<a href="https://github.com/AdrianHerzberger" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianHerzberger&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
